@@ -33,3 +33,4 @@ echo $substr4
 
 substr5=`expr substr "$var1" 10 5` # 从10到5
 echo $substr5
+
